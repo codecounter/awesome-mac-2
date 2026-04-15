@@ -347,6 +347,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 | [DocFlipper](https://docflipper.com) 🔗                         | Nice Cmd+Tab switcher with bookmarks. Cool idea, but UX not there. Lots of friction.                | ★★★    |    $20 |
 | [Homerow](https://www.homerow.app) 🔗                           | navigate mac UI with keyboard                                                                       | ★★     |  $40/y |
 | [rcmd](https://lowtechguys.com/rcmd/) 🔗                        | press *right cmd + letter* to switch to a specific app                                              | ★★     |     €7 |
+| [SnapHotkey](https://snaphotkey.com) 🔗                           | map any hotkey to any app; left/right modifier distinction, toggle show/hide, multi-window cycling  | ★★★    |   $9.99 |
 | [SuperTab](http://www.supertab.me/SuperTab.html) 🔗             | cmd+tab replacer with more stuff                                                                    | ★      |    $10 |
 | [Witch](https://manytricks.com/witch/) 🔗                       | another app/window switcher                                                                         | ★★     | €16.49 |
 | [Wooshy](https://wooshy.app) 🔗                                 | navigate mac UI with keyboard                                                                       | ★★     |   $4/m |
